@@ -13,3 +13,12 @@ If you use this code, please cite:
 }
 ```
 
+## Requirements
+The code is written in Python using the following packages:
+
+- numpy
+- scipy
+- matplotlib
+- skimage
+
+Additionally, we assume that the user obtains the TV flow solution or the spectral TV decomposition of the images prior to using this code. There are multiple codes freely available to obtain the desired data, such as from Gilboa et al. (https://guygilboa.net.technion.ac.il/2020/10/09/spectral-total-variation-color/) or from Grossmann et al. (https://github.com/TamaraGrossmann/TVspecNET).
