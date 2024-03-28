@@ -6,13 +6,15 @@ Medieval paper, a handmade product, is made with a mould which leaves an indelib
 
 If you use this code, please cite:
 ```bibtex
-@misc{grossmann2023,
-  doi = {10.48550/ARXIV.2303.03794},
-  url = {https://arxiv.org/abs/2303.03794},
-  author = {Grossmann, Tamara G. and Schönlieb, Carola-Bibiane and Da Rold, Orietta},
-  title = {Hidden Knowledge: Mathematical Methods for the Extraction of the Fingerprint of Medieval Paper from Digital Images},
-  publisher = {arXiv},
-  year = {2023}
+@article{grossmann2023extracting,
+  title={Extracting chain lines and laid lines from digital images of medieval paper using spectral total variation decomposition},
+  author={Grossmann, Tamara G and Sch{\"o}nlieb, Carola-Bibiane and Da Rold, Orietta},
+  journal={Heritage Science},
+  volume={11},
+  number={1},
+  pages={180},
+  year={2023},
+  publisher={Springer}
 }
 
 ```
